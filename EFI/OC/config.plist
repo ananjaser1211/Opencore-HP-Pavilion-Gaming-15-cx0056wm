@@ -1149,7 +1149,7 @@
 				<key>Comment</key>
 				<string>OpenCanopy.efi</string>
 				<key>Enabled</key>
-				<false/>
+				<true/>
 				<key>Path</key>
 				<string>OpenCanopy.efi</string>
 			</dict>
