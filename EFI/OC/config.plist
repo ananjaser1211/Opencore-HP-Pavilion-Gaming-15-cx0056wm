@@ -989,7 +989,7 @@
 				<key>ForceDisplayRotationInEFI</key>
 				<integer>0</integer>
 				<key>SystemAudioVolume</key>
-				<data>Rg==</data>
+				<data>EA==</data>
 				<key>boot-args</key>
 				<string>-v keepsyms=1 -wegnoegpu</string>
 				<key>csr-active-config</key>
