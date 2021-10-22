@@ -1034,7 +1034,7 @@
 				<key>SystemAudioVolume</key>
 				<data>EA==</data>
 				<key>boot-args</key>
-				<string>-v keepsyms=1 -wegnoegpu -igfxblr igfxrpsc=1</string>
+				<string>keepsyms=1 -wegnoegpu -igfxblr igfxrpsc=1</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
