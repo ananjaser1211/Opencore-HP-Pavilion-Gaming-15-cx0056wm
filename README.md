@@ -65,8 +65,8 @@
 | [BrightnessKeys](https://github.com/acidanthera/BrightnessKeys)                 | v1.0.2  | Jun 7 2021 Release     | Handler for brightness keys without DSDT patches                      |
 | [ECEnabler](https://github.com/1Revenger1/ECEnabler)                      | v1.0.2  | Aug 2 2021 Release     | Allows reading Embedded Controller fields over 1 byte long            |
 | [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)         | v2.0.1  | 25 Oct 2021 - edited [maxkernel](https://github.com/ananjaser1211/Opencore-HP-Pavilion-Gaming-15-cx0056wm/commit/117b32345c4988f78bb91fb1df236f63bc64c2d2)    | Intel Bluetooth Drivers for macOS                                     |
-| [IntelBluetoothInjector](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)         | v2.0.1  | 25 Oct 2021 - edited [maxkernel](https://github.com/ananjaser1211/Opencore-HP-Pavilion-Gaming-15-cx0056wm/commit/117b32345c4988f78bb91fb1df236f63bc64c2d2)    | Intel Bluetooth Drivers for macOS                                     |
 | [Lilu](https://github.com/acidanthera/Lilu)                           | v1.5.6  | Sep 7 2021 Release     | Arbitrary kext and process patching on macOS                          |
+| [BlueToolFixup](https://github.com/acidanthera/BrcmPatchRAM)                           | v2.6.0  | Jul 5 2021 Release     | Monterey Bluetooth Firmware fix-up
 | [NVMeFix](https://github.com/acidanthera/NVMeFix)                        | v2.4.2  | May 6 2021 Release     | OS X open source driver for the Realtek RTL8111/8168 family           |
 | [VirtualSMC](https://github.com/acidanthera/VirtualSMC)                     | v1.7.2  | Sep 7 2021 Release     | Advanced Apple SMC emulator in the kernel                             |
 | [SMCBatteryManager](https://github.com/acidanthera/VirtualSMC)              | v1.7.2  | Sep 7 2021 Release     | Battery Management For Laptops                                        |
