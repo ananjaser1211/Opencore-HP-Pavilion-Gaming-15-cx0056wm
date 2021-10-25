@@ -1,11 +1,10 @@
 # Opencore-HP-Pavilion-Gaming-15-cx0056wm
 
-<B>Opencore Hackintosh Big Sur 11.6 - HP Pavilion Gaming 15-cx0056wm</B>
+<B>Opencore Hackintosh Monterey 12.0.1 - HP Pavilion Gaming 15-cx0056wm</B>
 
-![Screen Shot 2021-10-22 at 5 11 44 AM](https://user-images.githubusercontent.com/25624482/138377526-9037de38-9798-48f2-9b6f-e83f2792a35d.png)
+![Screen Shot 2021-10-25 at 11 54 55 PM](https://user-images.githubusercontent.com/25624482/138761410-be67e0f2-8c03-4647-a8de-01320fe8620b.png)
 
-![Screen Shot 2021-10-22 at 8 30 27 PM](https://user-images.githubusercontent.com/25624482/138490779-3b905aa8-09e1-44c1-a2a6-920dce1b5bb0.png)
-
+![Screen Shot 2021-10-25 at 11 54 04 PM](https://user-images.githubusercontent.com/25624482/138761360-979d781a-73d7-49c5-b581-e585fa306647.png)
 
 ## Quick Installation
 - Follow [Opencore](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/) And create a bootable MacOS recovery USB
@@ -61,12 +60,12 @@
 ## Kexts
 | Kext                               | Version | Details                | Usage                                                                 |
 | ---------------------------------- | ------- | ---------------------- | --------------------------------------------------------------------- |
-| [AirportItlwm](https://github.com/OpenIntelWireless/itlwm)                   | v2.0.0  | Aug 8 2021 Big Sur     | Intel Wi-Fi Adapter Kext for macOS                                    |
+| [AirportItlwm](https://github.com/OpenIntelWireless/itlwm)                   | v2.0.0  | 25 Oct 2021 - edited [maxkernel](https://github.com/ananjaser1211/Opencore-HP-Pavilion-Gaming-15-cx0056wm/commit/117b32345c4988f78bb91fb1df236f63bc64c2d2)    | Intel Wi-Fi Adapter Kext for macOS                                    |
 | [AppleALC](https://github.com/acidanthera/AppleALC)                       | v1.6.5  | Oct 4 2021 Release     | Native macOS HD audio for not officially supported codecs             |
 | [BrightnessKeys](https://github.com/acidanthera/BrightnessKeys)                 | v1.0.2  | Jun 7 2021 Release     | Handler for brightness keys without DSDT patches                      |
 | [ECEnabler](https://github.com/1Revenger1/ECEnabler)                      | v1.0.2  | Aug 2 2021 Release     | Allows reading Embedded Controller fields over 1 byte long            |
-| [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)         | v2.0.1  | Sep 18 2021 Release    | Intel Bluetooth Drivers for macOS                                     |
-| [IntelBluetoothInjector](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)         | v2.0.1  | Sep 18 2021 Release    | Intel Bluetooth Drivers for macOS                                     |
+| [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)         | v2.0.1  | 25 Oct 2021 - edited [maxkernel](https://github.com/ananjaser1211/Opencore-HP-Pavilion-Gaming-15-cx0056wm/commit/117b32345c4988f78bb91fb1df236f63bc64c2d2)    | Intel Bluetooth Drivers for macOS                                     |
+| [IntelBluetoothInjector](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)         | v2.0.1  | 25 Oct 2021 - edited [maxkernel](https://github.com/ananjaser1211/Opencore-HP-Pavilion-Gaming-15-cx0056wm/commit/117b32345c4988f78bb91fb1df236f63bc64c2d2)    | Intel Bluetooth Drivers for macOS                                     |
 | [Lilu](https://github.com/acidanthera/Lilu)                           | v1.5.6  | Sep 7 2021 Release     | Arbitrary kext and process patching on macOS                          |
 | [NVMeFix](https://github.com/acidanthera/NVMeFix)                        | v2.4.2  | May 6 2021 Release     | OS X open source driver for the Realtek RTL8111/8168 family           |
 | [VirtualSMC](https://github.com/acidanthera/VirtualSMC)                     | v1.7.2  | Sep 7 2021 Release     | Advanced Apple SMC emulator in the kernel                             |
@@ -107,6 +106,7 @@
 
 ## Credits
 - @SkyrilHD For Massive help and tips / fixes
+- @TECHNIKVERBOT For Monterey Patches
 - @acidanthera For Bootloader, VirtualSMC, NVMEFix, Lilu And other kexts
 - @dortania For guides
 - @OpenIntelWireless For AC WiFi & Bluetooth
