@@ -7,7 +7,7 @@
 ![Screen Shot 2021-10-25 at 11 54 04 PM](https://user-images.githubusercontent.com/25624482/138761360-979d781a-73d7-49c5-b581-e585fa306647.png)
 
 ## Quick Installation
-- Follow [Opencore](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/) And create a bootable MacOS recovery USB
+- Follow [OpenCore guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/) and create a bootable macOS recovery USB
 - Download the EFI and place it onto your USB drive
 - Boot to OpenCore and setup your disk in Disk Utility
 
