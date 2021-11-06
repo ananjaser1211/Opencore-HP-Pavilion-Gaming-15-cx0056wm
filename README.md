@@ -85,13 +85,13 @@
 
 ## ACPI Patch list
 - SSDT-AWAC : System Clock fix
+- SSDT-dGPU-Off : Disables Dedicated GPU (Optimus Method)
 - SSDT-EC-USBX-LAPTOP : Embedded Controller fix
 - SSDT-GPRW : Instant wake fix
 - SSDT-HP-FixLidSleep : Screen LID Sleep Fix
 - SSDT-PLUG-DRTNIA : Power Management Fix
 - SSDT-PMC : NVRAM Fix (Optional on H370)
 - SSDT-PNLF : Brightness Fix
-- SSDT-dGPU-Off : Disables Dedicated GPU (Optimus Method)
 
 ## Misc information
 - Audio Layout ID : 13
