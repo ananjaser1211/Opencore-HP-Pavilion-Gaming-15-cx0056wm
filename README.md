@@ -1,6 +1,6 @@
 # Opencore-HP-Pavilion-Gaming-15-cx0056wm
 
-<B>Opencore Hackintosh Monterey 12.0.1 - HP Pavilion Gaming 15-cx0056wm</B>
+<B>OpenCore Hackintosh Monterey 12.0.1 - HP Pavilion Gaming 15-cx0056wm</B>
 
 ![Screen Shot 2021-10-25 at 11 54 55 PM](https://user-images.githubusercontent.com/25624482/138761410-be67e0f2-8c03-4647-a8de-01320fe8620b.png)
 
@@ -9,12 +9,12 @@
 ## Quick Installation
 - Follow [Opencore](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/) And create a bootable MacOS recovery USB
 - Download the EFI and place it onto your USB drive
-- Boot to opencore and setup your Disk in DiskUtility
+- Boot to OpenCore and setup your disk in Disk Utility
 
 ## Dualbooting Notes
-- To install along side windows make sure you have a GPT formatted Disk, Resize your Windows partition using tools such as Easeus partition master Then while in MacOS DiskUtility, Make the unallocated space into APFS
-- I also left a 500MB unallocated space for an EFI partition. using gparted on linux earlier  i set the esp / boot flags
-- Finally Copy the EFI from the repo to your disk EFI partition that you created and boot from it with the F9 key
+- To install along side Windows make sure you have a GPT formatted disk, resize your Windows partition using tools such as Easeus Partition Master then while in macOS Disk Utility, make the unallocated space into APFS
+- I also left a 500MB unallocated space for an EFI partition using gparted on Linux earlier I set the ESP / boot flags
+- Finally copy the EFI from the repo to your disk EFI partition that you created and boot from it with the F9 key
 
 ## Specifications
 
@@ -80,7 +80,7 @@
 | [VoodooSMBUS](https://github.com/VoodooSMBus/VoodooRMI)                    | v1.3.4  | Sep 7 2021 Release     | VoodooRMI Extension for PS2 Trackpad                                  |
 | [WhateverGreen](https://github.com/acidanthera/WhateverGreen)                  | v1.5.4  | Oct 4 2021 Release     | Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs       |
 
-## Opencore
+## OpenCore
 - OpenCore v0.7.5 Release on Nov 1 2021
 
 ## ACPI Patch list
@@ -98,11 +98,11 @@
 - [Backlight Register](https://github.com/ananjaser1211/Opencore-HP-Pavilion-Gaming-15-cx0056wm/commit/5b8c3a12f79ddb463ffe774c052cf00ad6dda0d8) fix is needed to fix black screen on bootup
 - USB Port Map [info](https://github.com/ananjaser1211/Opencore-HP-Pavilion-Gaming-15-cx0056wm/commit/e6eb9aa1a21bef35153f1993c7ae1534bd0b33ad)
 - Quirks Adjusted to fix Kernel panic on boot [commit](https://github.com/ananjaser1211/Opencore-HP-Pavilion-Gaming-15-cx0056wm/commit/8258d55462a9d0fe94edc516f2be52b85ebb0799)
-- xhciPortLimit is broken since MacOS 11.3. Has been Disabled to avoid kernel panics
+- XhciPortLimit is broken since MacOS 11.3. Has been Disabled to avoid kernel panics
 - Bootup Chime and Theme Enabled
-- SMBios MacBookPro15,2 is used
+- SMBIOS MacBookPro15,2 is used
 - dGPU is disabled via SSDT edit
-- Card Reader is spoofed but does not Work
+- Card Reader is spoofed but does not work
 
 ## Credits
 - @SkyrilHD For Massive help and tips / fixes
