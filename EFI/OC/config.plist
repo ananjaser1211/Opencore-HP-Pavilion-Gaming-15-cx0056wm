@@ -1192,6 +1192,8 @@
 			<integer>-15</integer>
 			<key>MinimumAssistGain</key>
 			<integer>-30</integer>
+			<key>MinimumAudibleGain</key>
+			<integer>-55</integer>
 			<key>PlayChime</key>
 			<string>Auto</string>
 			<key>ResetTrafficClass</key>
