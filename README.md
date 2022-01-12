@@ -67,7 +67,7 @@
 | [ECEnabler](https://github.com/1Revenger1/ECEnabler)                                  | v1.0.2  | Aug 2 2021 Release     | Allows reading Embedded Controller fields over 1 byte long            |
 | [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) | v2.1.0  | Jan 1 2022 Release     | Intel Bluetooth Drivers for macOS                                     |
 | [Lilu](https://github.com/acidanthera/Lilu)                                           | v1.5.9  | Jan 10 2022 Release    | Arbitrary kext and process patching on macOS                          |
-| [NVMeFix](https://github.com/acidanthera/NVMeFix)                                     | v2.4.2  | May 6 2021 Release     | Set of patches for the Apple NVMe storage driver           |
+| [NVMeFix](https://github.com/acidanthera/NVMeFix)                                     | v1.0.9  | Jul 5 2021 Release     | Set of patches for the Apple NVMe storage driver           |
 | [RTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X)                           | v2.4.2  | May 6 2021 Release     | OS X open source driver for the Realtek RTL8111/8168 family |
 | [SMCBatteryManager](https://github.com/acidanthera/VirtualSMC)                        | v1.2.8  | Dec 6 2021 Release     | Battery Management For Laptops                                        |
 | [SMCLightSensor](https://github.com/acidanthera/VirtualSMC)                           | v1.2.8  | Dec 6 2021 Release     | Light Sensor For Laptops                                              |
