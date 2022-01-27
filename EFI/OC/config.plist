@@ -1201,7 +1201,7 @@
 			<key>DisconnectHda</key>
 			<false/>
 			<key>MaximumGain</key>
-			<integer>-15</integer>
+			<integer>0</integer>
 			<key>MinimumAssistGain</key>
 			<integer>-55</integer>
 			<key>MinimumAudibleGain</key>
