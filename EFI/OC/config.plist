@@ -256,6 +256,12 @@
 			<dict>
 				<key>AAPL,ig-platform-id</key>
 				<data>CQClPg==</data>
+				<key>device-id</key>
+				<data>mz4AAA==</data>
+				<key>AAPL,slot-name</key>
+				<string>Internal@0,2,0</string>
+				<key>device_type</key>
+				<string>VGA compatible controller</string>
 				<key>enable-backlight-registers-fix</key>
 				<data>AQAAAA==</data>
 				<key>framebuffer-fbmem</key>
@@ -266,6 +272,12 @@
 				<data>AQAAAA==</data>
 				<key>framebuffer-stolenmem</key>
 				<data>AAAwAQ==</data>
+				<key>model</key>
+				<string>Intel UHD Graphics 630</string>
+				<key>igfxfw</key>
+				<data>AgAAAA==</data>
+				<key>igfxpavp</key>
+				<data>AQAAAA==</data>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x1B,0x0)/Pci(0x0,0x0)</key>
 			<dict>
@@ -1036,7 +1048,7 @@
 				<key>SystemAudioVolumeDB</key>
 				<data>4g==</data>
 				<key>boot-args</key>
-				<string>keepsyms=1 -wegnoegpu -igfxblr igfxrpsc=1</string>
+				<string>keepsyms=1 -wegnoegpu -igfxblr igfxfw=2 igfxpavp=1</string>
 				<key>csr-active-config</key>
 				<data>AAAAAA==</data>
 				<key>prev-lang:kbd</key>
