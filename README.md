@@ -1,10 +1,10 @@
 # Opencore-HP-Pavilion-Gaming-15-cx0056wm
 
-<B>OpenCore Hackintosh Monterey 12.0.1 - HP Pavilion Gaming 15-cx0056wm</B>
+<B>OpenCore Hackintosh Monterey 12.2 - HP Pavilion Gaming 15-cx0056wm</B>
 
-![Screen Shot 2021-10-25 at 11 54 55 PM](https://user-images.githubusercontent.com/25624482/138761410-be67e0f2-8c03-4647-a8de-01320fe8620b.png)
+![Screen Shot 2022-01-28 at 12 37 35 AM](https://user-images.githubusercontent.com/25624482/151439784-2562fd37-d3ee-420c-ac79-db51d30d8000.png)
 
-![Screen Shot 2021-10-25 at 11 54 04 PM](https://user-images.githubusercontent.com/25624482/138761360-979d781a-73d7-49c5-b581-e585fa306647.png)
+![Screen Shot 2022-01-28 at 12 37 26 AM](https://user-images.githubusercontent.com/25624482/151439805-0957a722-c703-4e03-9400-70dc266ccf2d.png)
 
 ## Quick Installation
 - Follow [OpenCore guide](https://dortania.github.io/OpenCore-Install-Guide/installer-guide/) and create a bootable macOS recovery USB
@@ -36,6 +36,7 @@
 ## Working
 - Intel UHD 630 Acceleration
 - CPU Power Management
+- IGPU Power Management
 - Battery Status / Time
 - Intel Wireless & Bluetooth
 - Ethernet LAN
@@ -50,6 +51,7 @@
 - Screen LID sleep
 - Screen Brightness & F2/F3 Keys
 - And pretty much everything not listed below
+- Apple GUC firmware
 
 ## Not Working
 - DRM (No HD playback on Netflix etc)
@@ -104,6 +106,7 @@
 - SMBIOS MacBookPro15,2 is used
 - dGPU is disabled via SSDT edit
 - Card Reader is spoofed but does not work
+- iGPU power management is handeled by [Apple GUC](https://github.com/ananjaser1211/Opencore-HP-Pavilion-Gaming-15-cx0056wm/commit/471b26d67147d0fa8871a69b448f73835302dfeb)
 
 ## Credits
 - @SkyrilHD For Massive help and tips / fixes
