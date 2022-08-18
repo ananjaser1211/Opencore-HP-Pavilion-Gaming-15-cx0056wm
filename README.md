@@ -52,12 +52,14 @@
 - Screen Brightness & F2/F3 Keys
 - And pretty much everything not listed below
 - Apple GUC firmware
+- Type-C HDMI Out [No Audio](https://github.com/ananjaser1211/Opencore-HP-Pavilion-Gaming-15-cx0056wm/issues/5)
 
 ## Not Working
 - DRM (No HD playback on Netflix etc)
 - SDXC Card Reader (Not supported in MacOS)
 - Dedicated GPU (Disabled in SSDT)
-- HDMI Port (Seems to be hooked to the Dedicated GPU)
+- HDMI Port output (Seems to be hooked to the Dedicated GPU)
+- Type-C HDMI Does not have Audio
 
 ## Kexts
 | Kext                                                                                  | Version | Details                | Usage                                                                 |
