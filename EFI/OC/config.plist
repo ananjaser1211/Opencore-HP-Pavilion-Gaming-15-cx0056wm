@@ -1331,6 +1331,8 @@
 				<string>btrfs_x64.efi</string>
 				<key>Enabled</key>
 				<true/>
+				<key>LoadEarly</key>
+				<false/>
 				<key>Path</key>
 				<string>btrfs_x64.efi</string>
 			</dict>
@@ -1341,6 +1343,8 @@
 				<string>Ext4Dxe.efi</string>
 				<key>Enabled</key>
 				<true/>
+				<key>LoadEarly</key>
+				<false/>
 				<key>Path</key>
 				<string>Ext4Dxe.efi</string>
 			</dict>
