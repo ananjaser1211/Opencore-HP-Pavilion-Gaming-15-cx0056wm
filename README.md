@@ -72,7 +72,7 @@
 | [WhateverGreen](https://github.com/acidanthera/WhateverGreen)                         | v1.6.1  | Aug 1 2022 Release  | Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs |
 
 ## OpenCore
-- OpenCore v0.8.3 (Release - 08/01/2022)
+- OpenCore v0.8.4 (Release - 09/05/2022)
 
 ## ACPI Patch list
 - SSDT-AWAC: System Clock fix
