@@ -1,20 +1,20 @@
 # Opencore-HP-Pavilion-Gaming-15-cx0056wm
 
-<B>OpenCore Hackintosh Monterey 12.2 - HP Pavilion Gaming 15-cx0056wm</B>
+<B>OpenCore Hackintosh - HP Pavilion Gaming 15-cx0056wm</B>
 
 ## Specifications
 
 | Specifications      | Detail                                      |
 | ------------------- | ------------------------------------------- |
 | Computer model      | HP Pavilion Gaming 15-cx0056wm              |
-| Processor           | Intel Core i5-8300H Processor               |
+| CPU                 | Intel Core i5-8300H                         |
 | Memory              | 8GB/8GB Crucial / SK Hynix                  |
-| SSD		          | Samsung SSD 970 EVO 500GB (PM981)		    |
-| HDD		          | Seagate ST2000LM007-1R817 2TB			 	|
+| SSD		              | Samsung SSD 970 EVO 500GB (PM981)		        |
+| HDD		              | Seagate ST2000LM007-1R817 2TB			 	        |
 | Integrated Graphics | Intel® UHD Graphics 630                     |
 | Dedicated Graphics  | NVIDIA GeForce GTX 1050 Ti                  |
 | Monitor             | FHD 1920x1080 (15.6 inch)                   |
-| Sound Card          | Realtek ALC295					            |
+| Sound Card          | Realtek ALC295					                    |
 | Wireless Card       | Intel® Wireless-AC 9560 802.11b/g/n/ac      |
 | Ethernet/LAN        | Realtek RTL8168/8111 PCI-E Gigabit Ethernet |
 | Card Reader         | AU6625 PCI-E Flash card reader              |
@@ -55,7 +55,7 @@
 | [BlueToolFixup](https://github.com/acidanthera/BrcmPatchRAM)                          | v2.6.3  | Jul 4 2022 Release  | Monterey Bluetooth Firmware fix-up                              |
 | [BrightnessKeys](https://github.com/acidanthera/BrightnessKeys)                       | v1.0.2  | Jun 7 2021 Release  | Handler for brightness keys without DSDT patches                |
 | [ECEnabler](https://github.com/1Revenger1/ECEnabler)                                  | v1.0.3  | Jul 4 2022 Release  | Allows reading Embedded Controller fields over 1 byte long      |
-| [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) | v2.1.0  | Jan 1 2022 Release  | Intel Bluetooth Drivers for macOS                               |
+| [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) | v2.2.0  | Aug 19 2022 Release | Intel Bluetooth Drivers for macOS                               |
 | [Lilu](https://github.com/acidanthera/Lilu)                                           | v1.6.2  | Aug 1 2022 Release  | Arbitrary kext and process patching on macOS                    |
 | [NVMeFix](https://github.com/acidanthera/NVMeFix)                                     | v1.1.0  | Jul 4 2022 Release  | Set of patches for the Apple NVMe storage driver                |
 | [RTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X)                           | v2.4.2  | May 6 2021 Release  | OS X open source driver for the Realtek RTL8111/8168 family     |
@@ -72,7 +72,7 @@
 | [WhateverGreen](https://github.com/acidanthera/WhateverGreen)                         | v1.6.1  | Aug 1 2022 Release  | Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs |
 
 ## OpenCore
-- OpenCore v0.8.3 Release on Aug 01 2022
+- OpenCore v0.8.3 (Release - 08/01/2022)
 
 ## ACPI Patch list
 - SSDT-AWAC: System Clock fix
