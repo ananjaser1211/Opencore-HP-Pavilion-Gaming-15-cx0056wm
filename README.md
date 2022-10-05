@@ -52,7 +52,7 @@
 | ------------------------------------------------------------------------------------- | ------- | ------------------- | --------------------------------------------------------------- |
 | [AirportItlwm](https://github.com/OpenIntelWireless/itlwm)                            | v2.1.0  | Jan 1 2022 Release  | Intel Wi-Fi Adapter Kext for macOS                              |
 | [AppleALC](https://github.com/acidanthera/AppleALC)                                   | v1.7.4  | Aug 1 2022 Release  | Native macOS HD audio for not officially supported codecs       |
-| [BlueToolFixup](https://github.com/acidanthera/BrcmPatchRAM)                          | v2.6.3  | Jul 4 2022 Release  | Monterey Bluetooth Firmware fix-up                              |
+| [BlueToolFixup](https://github.com/acidanthera/BrcmPatchRAM)                          | v2.6.4  | Oct 4 2022 Release  | Monterey Bluetooth Firmware fix-up                              |
 | [BrightnessKeys](https://github.com/acidanthera/BrightnessKeys)                       | v1.0.2  | Jun 7 2021 Release  | Handler for brightness keys without DSDT patches                |
 | [ECEnabler](https://github.com/1Revenger1/ECEnabler)                                  | v1.0.3  | Jul 4 2022 Release  | Allows reading Embedded Controller fields over 1 byte long      |
 | [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) | v2.2.0  | Aug 19 2022 Release | Intel Bluetooth Drivers for macOS                               |
@@ -66,13 +66,13 @@
 | [USBToolBox](https://github.com/USBToolBox/kext)                                      | v1.1.0  | May 22 2021 Release | USB Mapping                                                     |
 | [UTBMap](https://github.com/USBToolBox/kext)                                          | v1.1.0  | Oct 21 2021 Gen     | Generated USB Map                                               |
 | [VirtualSMC](https://github.com/acidanthera/VirtualSMC)                               | v1.3.0  | Jul 4 2022 Release  | Advanced Apple SMC emulator in the kernel                       |
-| [VoodooPS2](https://github.com/acidanthera/VoodooPS2)                                 | v2.2.9  | Jul 4 2022 Release  | Controller For various PS2 Gestures                             |
+| [VoodooPS2](https://github.com/acidanthera/VoodooPS2)                                 | v2.3.1  | Oct 4 2022 Release  | Controller For various PS2 Gestures                             |
 | [VoodooRMI](https://github.com/VoodooSMBus/VoodooRMI)                                 | v1.3.4  | Sep 7 2021 Release  | A port for macOS of Synaptic's RMI Trackpad driver from Linux   |
 | [VoodooSMBUS](https://github.com/VoodooSMBus/VoodooRMI)                               | v1.3.4  | Sep 7 2021 Release  | VoodooRMI Extension for PS2 Trackpad                            |
 | [WhateverGreen](https://github.com/acidanthera/WhateverGreen)                         | v1.6.1  | Aug 1 2022 Release  | Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs |
 
 ## OpenCore
-- OpenCore v0.8.4 (Release - 09/05/2022)
+- OpenCore v0.8.5 (Release - 10/04/2022)
 
 ## ACPI Patch list
 - SSDT-AWAC: System Clock fix
