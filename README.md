@@ -50,8 +50,8 @@
 ## Kexts
 | Kext                                                                                  | Version | Details             | Usage                                                           |
 | ------------------------------------------------------------------------------------- | ------- | ------------------- | --------------------------------------------------------------- |
-| [AirportItlwm](https://github.com/OpenIntelWireless/itlwm)                            | v2.1.0  | Jan 1 2022 Release  | Intel Wi-Fi Adapter Kext for macOS                              |
-| [AppleALC](https://github.com/acidanthera/AppleALC)                                   | v1.7.4  | Aug 1 2022 Release  | Native macOS HD audio for not officially supported codecs       |
+| [AirportItlwm](https://github.com/OpenIntelWireless/itlwm)                            | v2.2.0 (ee56708)  | Oct 1 2022 Debug  | Intel Wi-Fi Adapter Kext for macOS                              |
+| [AppleALC](https://github.com/acidanthera/AppleALC)                                   | v1.7.6  | Nov 7 2022 Release  | Native macOS HD audio for not officially supported codecs       |
 | [BlueToolFixup](https://github.com/acidanthera/BrcmPatchRAM)                          | v2.6.4  | Oct 4 2022 Release  | Monterey Bluetooth Firmware fix-up                              |
 | [BrightnessKeys](https://github.com/acidanthera/BrightnessKeys)                       | v1.0.2  | Jun 7 2021 Release  | Handler for brightness keys without DSDT patches                |
 | [ECEnabler](https://github.com/1Revenger1/ECEnabler)                                  | v1.0.3  | Jul 4 2022 Release  | Allows reading Embedded Controller fields over 1 byte long      |
@@ -72,7 +72,7 @@
 | [WhateverGreen](https://github.com/acidanthera/WhateverGreen)                         | v1.6.1  | Aug 1 2022 Release  | Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs |
 
 ## OpenCore
-- OpenCore v0.8.5 (Release - 10/04/2022)
+- OpenCore v0.8.6 (Release - 11/07/2022)
 
 ## ACPI Patch list
 - SSDT-AWAC: System Clock fix
