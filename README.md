@@ -9,12 +9,12 @@
 | Computer model      | HP Pavilion Gaming 15-cx0056wm              |
 | CPU                 | Intel Core i5-8300H                         |
 | Memory              | 8GB/8GB Crucial / SK Hynix                  |
-| SSD		              | Samsung SSD 970 EVO 500GB (PM981)		        |
-| HDD		              | Seagate ST2000LM007-1R817 2TB			 	        |
+| SSD		          | Samsung SSD 970 EVO 500GB (PM981)		    |
+| HDD		          | Seagate ST2000LM007-1R817 2TB			 	|
 | Integrated Graphics | Intel® UHD Graphics 630                     |
 | Dedicated Graphics  | NVIDIA GeForce GTX 1050 Ti                  |
 | Monitor             | FHD 1920x1080 (15.6 inch)                   |
-| Sound Card          | Realtek ALC295					                    |
+| Sound Card          | Realtek ALC295					            |
 | Wireless Card       | Intel® Wireless-AC 9560 802.11b/g/n/ac      |
 | Ethernet/LAN        | Realtek RTL8168/8111 PCI-E Gigabit Ethernet |
 | Card Reader         | AU6625 PCI-E Flash card reader              |
@@ -50,13 +50,13 @@
 ## Kexts
 | Kext                                                                                  | Version | Details             | Usage                                                           |
 | ------------------------------------------------------------------------------------- | ------- | ------------------- | --------------------------------------------------------------- |
-| [AirportItlwm](https://github.com/OpenIntelWireless/itlwm)                            | v2.2.0 (ee56708)  | Oct 1 2022 Debug  | Intel Wi-Fi Adapter Kext for macOS                              |
-| [AppleALC](https://github.com/acidanthera/AppleALC)                                   | v1.7.6  | Nov 7 2022 Release  | Native macOS HD audio for not officially supported codecs       |
+| [AirportItlwm](https://github.com/OpenIntelWireless/itlwm)                            | v2.2.0 (e0f745e)  | Jan 1 2023 Debug  | Intel Wi-Fi Adapter Kext for macOS                              |
+| [AppleALC](https://github.com/acidanthera/AppleALC)                                   | v1.7.8  | Jan 1 2023 Release  | Native macOS HD audio for not officially supported codecs       |
 | [BlueToolFixup](https://github.com/acidanthera/BrcmPatchRAM)                          | v2.6.4  | Oct 4 2022 Release  | Monterey Bluetooth Firmware fix-up                              |
 | [BrightnessKeys](https://github.com/acidanthera/BrightnessKeys)                       | v1.0.2  | Jun 7 2021 Release  | Handler for brightness keys without DSDT patches                |
 | [ECEnabler](https://github.com/1Revenger1/ECEnabler)                                  | v1.0.3  | Jul 4 2022 Release  | Allows reading Embedded Controller fields over 1 byte long      |
 | [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) | v2.2.0  | Aug 19 2022 Release | Intel Bluetooth Drivers for macOS                               |
-| [Lilu](https://github.com/acidanthera/Lilu)                                           | v1.6.2  | Aug 1 2022 Release  | Arbitrary kext and process patching on macOS                    |
+| [Lilu](https://github.com/acidanthera/Lilu)                                           | v1.6.3  | Jan 1 2023 Release  | Arbitrary kext and process patching on macOS                    |
 | [NVMeFix](https://github.com/acidanthera/NVMeFix)                                     | v1.1.0  | Jul 4 2022 Release  | Set of patches for the Apple NVMe storage driver                |
 | [RTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X)                           | v2.4.2  | May 6 2021 Release  | OS X open source driver for the Realtek RTL8111/8168 family     |
 | [SMCBatteryManager](https://github.com/acidanthera/VirtualSMC)                        | v1.3.0  | Jul 4 2022 Release  | Battery Management For Laptops                                  |
@@ -66,13 +66,13 @@
 | [USBToolBox](https://github.com/USBToolBox/kext)                                      | v1.1.0  | May 22 2021 Release | USB Mapping                                                     |
 | [UTBMap](https://github.com/USBToolBox/kext)                                          | v1.1.0  | Oct 21 2021 Gen     | Generated USB Map                                               |
 | [VirtualSMC](https://github.com/acidanthera/VirtualSMC)                               | v1.3.0  | Jul 4 2022 Release  | Advanced Apple SMC emulator in the kernel                       |
-| [VoodooPS2](https://github.com/acidanthera/VoodooPS2)                                 | v2.3.1  | Oct 4 2022 Release  | Controller For various PS2 Gestures                             |
+| [VoodooPS2](https://github.com/acidanthera/VoodooPS2)                                 | v2.3.3  | Jan 1 2023 Release  | Controller For various PS2 Gestures                             |
 | [VoodooRMI](https://github.com/VoodooSMBus/VoodooRMI)                                 | v1.3.4  | Sep 7 2021 Release  | A port for macOS of Synaptic's RMI Trackpad driver from Linux   |
 | [VoodooSMBUS](https://github.com/VoodooSMBus/VoodooRMI)                               | v1.3.4  | Sep 7 2021 Release  | VoodooRMI Extension for PS2 Trackpad                            |
-| [WhateverGreen](https://github.com/acidanthera/WhateverGreen)                         | v1.6.1  | Aug 1 2022 Release  | Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs |
+| [WhateverGreen](https://github.com/acidanthera/WhateverGreen)                         | v1.6.3  | Jan 1 2023 Release  | Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs |
 
 ## OpenCore
-- OpenCore v0.8.6 (Release - 11/07/2022)
+- OpenCore v0.8.8 (Release - 01/02/2023)
 
 ## ACPI Patch list
 - SSDT-AWAC: System Clock fix
