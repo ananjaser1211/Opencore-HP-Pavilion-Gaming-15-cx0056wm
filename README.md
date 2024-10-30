@@ -50,13 +50,13 @@
 ## Kexts
 | Kext                                                                                  | Version | Details             | Usage                                                           |
 | ------------------------------------------------------------------------------------- | ------- | ------------------- | --------------------------------------------------------------- |
-| [AirportItlwm](https://github.com/OpenIntelWireless/itlwm)                            | v2.2.0 (e0f745e)  | Jan 1 2023 Debug  | Intel Wi-Fi Adapter Kext for macOS                              |
-| [AppleALC](https://github.com/acidanthera/AppleALC)                                   | v1.7.8  | Jan 1 2023 Release  | Native macOS HD audio for not officially supported codecs       |
-| [BlueToolFixup](https://github.com/acidanthera/BrcmPatchRAM)                          | v2.6.4  | Oct 4 2022 Release  | Monterey Bluetooth Firmware fix-up                              |
+| [AirportItlwm](https://github.com/OpenIntelWireless/itlwm)                            | v2.3.0  | Jun 9 2024 Release  | Intel Wi-Fi Adapter Kext for macOS                              |
+| [AppleALC](https://github.com/acidanthera/AppleALC)                                   | v1.8.3  | Jun 12 2023 Release | Native macOS HD audio for not officially supported codecs       |
+| [BlueToolFixup](https://github.com/acidanthera/BrcmPatchRAM)                          | v2.6.8  | Aug 7 2023 Release  | Monterey Bluetooth Firmware fix-up                              |
 | [BrightnessKeys](https://github.com/acidanthera/BrightnessKeys)                       | v1.0.2  | Jun 7 2021 Release  | Handler for brightness keys without DSDT patches                |
 | [ECEnabler](https://github.com/1Revenger1/ECEnabler)                                  | v1.0.3  | Jul 4 2022 Release  | Allows reading Embedded Controller fields over 1 byte long      |
-| [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) | v2.2.0  | Aug 19 2022 Release | Intel Bluetooth Drivers for macOS                               |
-| [Lilu](https://github.com/acidanthera/Lilu)                                           | v1.6.3  | Jan 1 2023 Release  | Arbitrary kext and process patching on macOS                    |
+| [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) | v2.3.0  | Jul 23 2023 Release | Intel Bluetooth Drivers for macOS                               |
+| [Lilu](https://github.com/acidanthera/Lilu)                                           | v1.6.6  | Jun 12 2023 Release | Arbitrary kext and process patching on macOS                    |
 | [NVMeFix](https://github.com/acidanthera/NVMeFix)                                     | v1.1.0  | Jul 4 2022 Release  | Set of patches for the Apple NVMe storage driver                |
 | [RTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X)                           | v2.4.2  | May 6 2021 Release  | OS X open source driver for the Realtek RTL8111/8168 family     |
 | [SMCBatteryManager](https://github.com/acidanthera/VirtualSMC)                        | v1.3.0  | Jul 4 2022 Release  | Battery Management For Laptops                                  |
@@ -69,10 +69,10 @@
 | [VoodooPS2](https://github.com/acidanthera/VoodooPS2)                                 | v2.3.3  | Jan 1 2023 Release  | Controller For various PS2 Gestures                             |
 | [VoodooRMI](https://github.com/VoodooSMBus/VoodooRMI)                                 | v1.3.4  | Sep 7 2021 Release  | A port for macOS of Synaptic's RMI Trackpad driver from Linux   |
 | [VoodooSMBUS](https://github.com/VoodooSMBus/VoodooRMI)                               | v1.3.4  | Sep 7 2021 Release  | VoodooRMI Extension for PS2 Trackpad                            |
-| [WhateverGreen](https://github.com/acidanthera/WhateverGreen)                         | v1.6.3  | Jan 1 2023 Release  | Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs |
+| [WhateverGreen](https://github.com/acidanthera/WhateverGreen)                         | v1.6.5  | Jun 12 2023 Release | Various patches necessary for certain ATI/AMD/Intel/Nvidia GPUs |
 
 ## OpenCore
-- OpenCore v0.8.8 (Release - 01/02/2023)
+- OpenCore v0.9.3 (Release - 06/12/2023)
 
 ## ACPI Patch list
 - SSDT-AWAC: System Clock fix
