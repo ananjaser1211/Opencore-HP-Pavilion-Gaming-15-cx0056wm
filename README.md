@@ -5,7 +5,7 @@
 > [!IMPORTANT]  
 > For macOS **Sonoma** Installation/Update:
 >
-> 1. **Before Installation**: Set [`Misc` -> `Security` -> `SecureBootModel`](/EFI/OC/config.plist) to `Disabled`.
+> 1. **Before Installation**: Set [`Misc` -> `Security` -> `SecureBootModel`](/EFI/OC/config.plist#L1028) to `Disabled`.
 > 2. **After Successfully Booting**: Change `SecureBootModel` back to `j132`.
 >
 >    ⚠️ Only change back to `j132` after **successfully reaching the desktop**, otherwise boot may fail!
