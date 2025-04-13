@@ -63,7 +63,7 @@
 | ------------------------------------------------------------------------------------- | ------- | ------- | --------------------------------------------------------------- |
 | [AirportItlwm](https://github.com/OpenIntelWireless/itlwm)                            | v2.3.0  | Release | Intel Wi-Fi Adapter Kext for macOS                              |
 | [AppleALC](https://github.com/acidanthera/AppleALC)                                   | v1.9.4  | Release | Native macOS HD audio for not officially supported codecs       |
-| [BlueToolFixup](https://github.com/acidanthera/BrcmPatchRAM)                          | v2.6.9  | Release | Monterey Bluetooth Firmware fix-up                              |
+| [BlueToolFixup](https://github.com/acidanthera/BrcmPatchRAM)                          | v2.7.0  | Release | Monterey Bluetooth Firmware fix-up                              |
 | [BrightnessKeys](https://github.com/acidanthera/BrightnessKeys)                       | v1.0.3  | Release | Handler for brightness keys without DSDT patches                |
 | [ECEnabler](https://github.com/1Revenger1/ECEnabler)                                  | v1.0.5  | Release | Allows reading Embedded Controller fields over 1 byte long      |
 | [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) | v2.4.0  | Release | Intel Bluetooth Drivers for macOS                               |

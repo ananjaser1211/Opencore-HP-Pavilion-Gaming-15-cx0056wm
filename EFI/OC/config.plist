@@ -594,7 +594,7 @@
                     <key>BundlePath</key>
                     <string>BlueToolFixup.kext</string>
                     <key>Comment</key>
-                    <string>V2.6.7 | BlueToolFixup.kext</string>
+                    <string>V2.7.0 | BlueToolFixup.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -1109,6 +1109,10 @@
                     <integer>0</integer>
                     <key>SystemAudioVolume</key>
                     <data>EA==</data>
+                    <key>bluetoothExternalDongleFailed</key>
+                    <data>AA==</data>
+                    <key>bluetoothInternalControllerInfo</key>
+                    <data>AAAAAAAAAAAAAAAAAAA=</data>
                     <key>boot-args</key>
                     <string>keepsyms=1 -wegnoegpu -igfxblt igfxfw=2 igfxrpsc=1 revpatch=sbvmm</string>
                     <key>csr-active-config</key>
