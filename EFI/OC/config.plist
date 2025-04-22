@@ -1422,7 +1422,7 @@
                 <key>IgnoreTextInGraphics</key>
                 <false/>
                 <key>InitialMode</key>
-                <string></string>
+                <string>Auto</string>
                 <key>ProvideConsoleGop</key>
                 <false/>
                 <key>ReconnectGraphicsOnConnect</key>
