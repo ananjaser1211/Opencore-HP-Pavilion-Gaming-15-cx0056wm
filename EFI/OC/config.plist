@@ -1100,6 +1100,8 @@
                 </dict>
                 <key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
                 <dict>
+                    <key>revpatch</key>
+                    <string>sbvmm</string>
                     <key>rtc-blacklist</key>
                     <data></data>
                 </dict>
@@ -1114,7 +1116,7 @@
                     <key>bluetoothInternalControllerInfo</key>
                     <data>AAAAAAAAAAAAAAAAAAA=</data>
                     <key>boot-args</key>
-                    <string>keepsyms=1 -wegnoegpu -igfxblt igfxfw=2 igfxrpsc=1 revpatch=sbvmm</string>
+                    <string>keepsyms=1 -wegnoegpu -igfxblt igfxfw=2 igfxrpsc=1</string>
                     <key>csr-active-config</key>
                     <data>AAAAAA==</data>
                     <key>prev-lang:kbd</key>
