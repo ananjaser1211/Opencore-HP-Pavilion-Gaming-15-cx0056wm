@@ -306,7 +306,7 @@
                     <key>BundlePath</key>
                     <string>Lilu.kext</string>
                     <key>Comment</key>
-                    <string>V1.7.0 | Lilu.kext</string>
+                    <string>Lilu.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -324,7 +324,7 @@
                     <key>BundlePath</key>
                     <string>VirtualSMC.kext</string>
                     <key>Comment</key>
-                    <string>V1.3.6</string>
+                    <string></string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -342,7 +342,7 @@
                     <key>BundlePath</key>
                     <string>WhateverGreen.kext</string>
                     <key>Comment</key>
-                    <string>V1.6.9 | WhateverGreen.kext</string>
+                    <string>WhateverGreen.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -360,7 +360,7 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.9.4 | AppleALC.kext</string>
+                    <string>AppleALC.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -378,7 +378,7 @@
                     <key>BundlePath</key>
                     <string>VoodooPS2Controller.kext</string>
                     <key>Comment</key>
-                    <string>V2.3.7</string>
+                    <string></string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -396,7 +396,7 @@
                     <key>BundlePath</key>
                     <string>VoodooPS2Controller.kext/Contents/PlugIns/VoodooInput.kext</string>
                     <key>Comment</key>
-                    <string>V1.1.6</string>
+                    <string></string>
                     <key>Enabled</key>
                     <false/>
                     <key>ExecutablePath</key>
@@ -414,7 +414,7 @@
                     <key>BundlePath</key>
                     <string>VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext</string>
                     <key>Comment</key>
-                    <string>V2.3.7</string>
+                    <string></string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -432,7 +432,7 @@
                     <key>BundlePath</key>
                     <string>VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Mouse.kext</string>
                     <key>Comment</key>
-                    <string>V2.3.7</string>
+                    <string></string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -450,7 +450,7 @@
                     <key>BundlePath</key>
                     <string>VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Trackpad.kext</string>
                     <key>Comment</key>
-                    <string>V2.3.7</string>
+                    <string></string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -468,7 +468,7 @@
                     <key>BundlePath</key>
                     <string>RestrictEvents.kext</string>
                     <key>Comment</key>
-                    <string>V1.1.5</string>
+                    <string></string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -486,7 +486,7 @@
                     <key>BundlePath</key>
                     <string>ECEnabler.kext</string>
                     <key>Comment</key>
-                    <string>V1.0.5 | ECEnabler.kext</string>
+                    <string>ECEnabler.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -504,7 +504,7 @@
                     <key>BundlePath</key>
                     <string>USBToolBox.kext</string>
                     <key>Comment</key>
-                    <string>V1.1.1 | USBToolBox.kext</string>
+                    <string>USBToolBox.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -522,7 +522,7 @@
                     <key>BundlePath</key>
                     <string>UTBMap.kext</string>
                     <key>Comment</key>
-                    <string>V1.1 | UTBMap.kext</string>
+                    <string>UTBMap.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -540,7 +540,7 @@
                     <key>BundlePath</key>
                     <string>RealtekRTL8111.kext</string>
                     <key>Comment</key>
-                    <string>V2.5.0 | RealtekRTL8111.kext</string>
+                    <string>RealtekRTL8111.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -558,7 +558,7 @@
                     <key>BundlePath</key>
                     <string>IntelBluetoothFirmware.kext</string>
                     <key>Comment</key>
-                    <string>V2.4.0 | IntelBluetoothFirmware.kext</string>
+                    <string>IntelBluetoothFirmware.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -576,7 +576,7 @@
                     <key>BundlePath</key>
                     <string>IntelBTPatcher.kext</string>
                     <key>Comment</key>
-                    <string>V2.4.0 | IntelBTPatcher.kext</string>
+                    <string>IntelBTPatcher.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -594,7 +594,7 @@
                     <key>BundlePath</key>
                     <string>BlueToolFixup.kext</string>
                     <key>Comment</key>
-                    <string>V2.7.0 | BlueToolFixup.kext</string>
+                    <string>BlueToolFixup.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -612,7 +612,7 @@
                     <key>BundlePath</key>
                     <string>AirportItlwm.kext</string>
                     <key>Comment</key>
-                    <string>V2.3.0</string>
+                    <string></string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -630,7 +630,7 @@
                     <key>BundlePath</key>
                     <string>SMCProcessor.kext</string>
                     <key>Comment</key>
-                    <string>V1.3.6 | SMCProcessor.kext</string>
+                    <string>SMCProcessor.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -648,7 +648,7 @@
                     <key>BundlePath</key>
                     <string>SMCBatteryManager.kext</string>
                     <key>Comment</key>
-                    <string>V1.3.6 | SMCBatteryManager.kext</string>
+                    <string>SMCBatteryManager.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -666,7 +666,7 @@
                     <key>BundlePath</key>
                     <string>SMCSuperIO.kext</string>
                     <key>Comment</key>
-                    <string>V1.3.6 | SMCSuperIO.kext</string>
+                    <string>SMCSuperIO.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -684,7 +684,7 @@
                     <key>BundlePath</key>
                     <string>NVMeFix.kext</string>
                     <key>Comment</key>
-                    <string>V1.1.2 | NVMeFix.kext</string>
+                    <string>NVMeFix.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -702,7 +702,7 @@
                     <key>BundlePath</key>
                     <string>VoodooSMBus.kext</string>
                     <key>Comment</key>
-                    <string>V3.0</string>
+                    <string></string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -720,7 +720,7 @@
                     <key>BundlePath</key>
                     <string>VoodooRMI.kext</string>
                     <key>Comment</key>
-                    <string>V1.4.2</string>
+                    <string></string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -738,7 +738,7 @@
                     <key>BundlePath</key>
                     <string>VoodooRMI.kext/Contents/PlugIns/RMII2C.kext</string>
                     <key>Comment</key>
-                    <string>V1 | RMII2C.kext</string>
+                    <string>RMII2C.kext</string>
                     <key>Enabled</key>
                     <false/>
                     <key>ExecutablePath</key>
@@ -756,7 +756,7 @@
                     <key>BundlePath</key>
                     <string>VoodooRMI.kext/Contents/PlugIns/RMISMBus.kext</string>
                     <key>Comment</key>
-                    <string>V1.0 | RMISMBus.kext</string>
+                    <string>RMISMBus.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -774,7 +774,7 @@
                     <key>BundlePath</key>
                     <string>VoodooRMI.kext/Contents/PlugIns/VoodooInput.kext</string>
                     <key>Comment</key>
-                    <string>V1.1.6</string>
+                    <string></string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -792,7 +792,7 @@
                     <key>BundlePath</key>
                     <string>BrightnessKeys.kext</string>
                     <key>Comment</key>
-                    <string>V1.0.3 | BrightnessKeys.kext</string>
+                    <string>BrightnessKeys.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
