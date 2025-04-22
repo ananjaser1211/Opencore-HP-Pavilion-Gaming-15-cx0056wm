@@ -5,10 +5,10 @@
 > [!IMPORTANT]  
 > For macOS **Sonoma** Installation/Update:
 >
-> 1. **Before Installation**: Set [`Misc` -> `Security` -> `SecureBootModel`](/EFI/OC/config.plist#L1028) to `Disabled`.
-> 2. **After Successfully Booting**: Change `SecureBootModel` back to `j132`.
+> 1. **Before Installation**: Set `Misc` -> `Security` -> `SecureBootModel` to `Disabled`.
+> 2. **After Successfully Booting**: Change `SecureBootModel` back to `Default`.
 >
->    ⚠️ Only change back to `j132` after **successfully reaching the desktop**, otherwise boot may fail!
+>    ⚠️ Only change back to `Default` after **successfully reaching the desktop**, otherwise boot may fail!
 
 ## Specifications
 
@@ -85,7 +85,7 @@
 
 ## OpenCore
 
-- OpenCore v0.8.8 (Release - 01/02/2023)
+- OpenCore v1.0.4 (Release)
 
 ## ACPI Patch list
 
