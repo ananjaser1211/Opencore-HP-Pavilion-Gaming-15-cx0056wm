@@ -10,13 +10,14 @@ jobs:
     name: Build
     runs-on: macos-latest
     steps:
-      - name: Build
+      - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - run: mkdir Output && zip --exclude '*.git*' --exclude '*.github*' --exclude '*Output*' -r -X "Output/${{ github.event.repository.name }}-${{github.ref_name}}.zip" .
+      - name: Zip Output
+        run: mkdir Output && zip --exclude '*.git*' --exclude '*.github*' --exclude '*Output*' -r -X "Output/${{ github.event.repository.name }}-${{ github.ref_name }}.zip" .
 
       - name: Upload to Artifacts
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: Artifacts
           path: Output/*.zip
