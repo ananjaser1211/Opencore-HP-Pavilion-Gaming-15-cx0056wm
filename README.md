@@ -55,7 +55,7 @@
 
 ## Not Working
 
-- DRM (No HD playback through on Apple TV+, Netflix through Safari etc. (use Firefox/Chrome etc.))
+- DRM content playback (on Safari, Apple TV+ or Dolby Atmos Apple Music)
 - SDXC Card Reader (not supported in MacOS)
 - dedicated GPU (disabled in SSDT)
 - HDMI Port output (wired to the dedicated GPU)
