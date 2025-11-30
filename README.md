@@ -109,8 +109,8 @@ or load the config.plist in [OCAuxiliaryTools](https://github.com/ic005k/OCAuxil
 | [BlueToolFixup](https://github.com/acidanthera/BrcmPatchRAM)                          | v2.7.1  | Release | Monterey Bluetooth Firmware fix-up                              |
 | [BrightnessKeys](https://github.com/acidanthera/BrightnessKeys)                       | v1.0.3  | Release | Handler for brightness keys without DSDT patches                |
 | [ECEnabler](https://github.com/1Revenger1/ECEnabler)                                  | v1.0.5  | Release | Allows reading Embedded Controller fields over 1 byte long      |
-| [IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware) | v2.5.0  | Release | Intel Bluetooth Drivers for macOS                               |
-| [IntelBTPatcher](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)         | v2.4.0  | Release | Intel Bluetooth Firmware Uploader                               |
+| [IntelBluetoothFirmware](https://github.com/lshbluesky/IntelBluetoothFirmware)        | v2.5.0-d2  | Release | Intel Bluetooth Drivers for macOS                            |
+| [IntelBTPatcher](https://github.com/lshbluesky/IntelBluetoothFirmware)                | v2.5.0-d2  | Release | Intel Bluetooth Firmware Uploader                            |
 | [Lilu](https://github.com/acidanthera/Lilu)                                           | v1.7.1  | Release | Arbitrary kext and process patching on macOS                    |
 | [NVMeFix](https://github.com/acidanthera/NVMeFix)                                     | v1.1.3  | Release | Set of patches for the Apple NVMe storage driver                |
 | [RealtekRTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X)                    | v2.5.0  | Release | OS X open source driver for the Realtek RTL8111/8168 family     |
