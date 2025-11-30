@@ -44,22 +44,21 @@
 - Audio Combo Jack
 - Keyboard & Media/Function Keys
 - Trackpad & Gestures support
-- USB Type-A & Type-C ports
+- USB
 - HP Webcam
 - Sleep/Wakeup & Instant Wake
 - Screen LID sleep
 - Screen Brightness & F2/F3 Keys
 - And pretty much everything not listed below
 - Apple GUC firmware
-- Type-C HDMI Out ([No Audio](https://github.com/ananjaser1211/Opencore-HP-Pavilion-Gaming-15-cx0056wm/issues/5))
+- DisplayPort Alt Mode (USB-C)
 
 ## Not Working
 
-- DRM (No HD playback on Netflix etc.)
-- SDXC Card Reader (Not supported in MacOS)
-- Dedicated GPU (Disabled in SSDT)
-- HDMI Port output (Seems to be hooked to the dedicated GPU)
-- Type-C HDMI does not have Audio
+- DRM (No HD playback through on Apple TV+, Netflix through Safari etc. (use Firefox/Chrome etc.))
+- SDXC Card Reader (not supported in MacOS)
+- dedicated GPU (disabled in SSDT)
+- HDMI Port output (wired to the dedicated GPU)
 
 ## Quick Installation
 
