@@ -51,14 +51,15 @@
 - Screen Brightness & F2/F3 Keys
 - And pretty much everything not listed below
 - Apple GUC firmware
-- DisplayPort Alt Mode (USB-C)
+- DisplayPort Alt Mode (USB-C) ([No Audio](https://github.com/ananjaser1211/Opencore-HP-Pavilion-Gaming-15-cx0056wm/issues/5))
 
 ## Not Working
 
 - DRM content playback (on Safari, Apple TV+ or Dolby Atmos Apple Music)
-- SDXC Card Reader (not supported in MacOS)
-- dedicated GPU (disabled in SSDT)
+- SDXC Card Reader (Not supported in MacOS)
+- Dedicated GPU (Disabled in SSDT)
 - HDMI Port output (wired to the dedicated GPU)
+- DP Alt Mode (USB-C) does not have audio
 
 ## Quick Installation
 
